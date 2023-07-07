@@ -1,0 +1,15 @@
+.cabecalho
+{ 
+    background-color: #392C87;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    }
+    .cabecalho-titulo
+    {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .cabecalho-lista-item
+    {
+        display: inline-block
+    }
