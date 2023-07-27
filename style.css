@@ -19,3 +19,44 @@
     margin:0 40px;
     font-size: 20px;
 }
+
+.componente-imagem{
+    width: 25%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.componente{
+    background-image: linear-gradient(#186464,#4a6a75);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.componente-div-conteudo{
+    width: 35%;
+}
+
+.componente-titulo{
+    padding: 24px 0;
+}
+.ampliacao-imagem{
+    width: 370px;
+}
+.ampliacao{
+    background-image: linear-gradient(#186464, #aaa5a5);
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.ampliacao-div-conteudo{
+    width: 30%;
+}
+
+ampliacao-titulo{
+    padding: 25px 0;
+}
