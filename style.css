@@ -57,6 +57,47 @@ body{
     width: 30%;
 }
 
-ampliacao-titulo{
+.ampliacao-titulo{
     padding: 25px 0;
+}
+
+
+.atividades{
+    background-image: linear-gradient(#aaa5a5, #aaa5a5);
+    color:aliceblue;
+    justify-content:center;
+    align-items:center ;
+    padding: 24px 0;
+}
+
+.atividades-titulo{
+    text-align: center;
+    padding: 50px 0;
+
+}
+
+.atividades-item{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.atividades-imagem{
+    width: 150px;
+    padding: 4px;
+}
+
+.atividades-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+
+}
+
+.rodape{
+    background: #392C87;
+    text-align: end;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 10px 0;
 }
